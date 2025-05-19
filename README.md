@@ -38,7 +38,7 @@
 [View my CV](Sufyaan_Rawoot_221075127_CV.pdf)
 
 **Reflection**
-* S: After creating my CV, I completed a course on how to submit it professionally to employers.
+* S: I completed a course on how to perfect my CV.
 * T: The task was to learn how to make a professional CV.
 * A: I practiced using different templates and selected the best one.
 * R: I now feel confident in my CV and making a good first impression.
