@@ -35,7 +35,7 @@
 
 ### CV Submission
 ![CV Submission](CVSubmission.png)
-[View my CV](./files/report.pdf)
+[View my CV](Sufyaan_Rawoot_221075127_CV.pdf)
 **Reflection**
 * S: After creating my CV, I completed a course on how to submit it professionally to employers.
 * T: The task was to learn proper channels and etiquette for CV submission.
