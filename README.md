@@ -54,7 +54,7 @@
 ---
 
 ## Interview Skills
-![Interview Skills](InterviewSkill.png)
+![Interview Skills](InterviewSkills.png)
 **Reflection**  
 * **S:** I completed an Interview Skills course to prepare for job interviews and build confidence in presenting myself.  
 * **T:** I needed to learn techniques for answering interview questions effectively and professionally.  
@@ -64,7 +64,7 @@
 ---
 
 ## Mock Interview
-![Mock Interview](MockIntervie.png)
+![Mock Interview](MockInterview.png)
 **Reflection**  
 * **S:** I participated in a Mock Interview session to apply the skills I learned in the Interview Skills course.  
 * **T:** My task was to simulate a real interview environment and practice responding to typical employer questions.  
@@ -74,7 +74,7 @@
 ---
 
 ## Professional Networking
-![Professional Networking](ProfessionalNetworkin.png)
+![Professional Networking](ProfessionalNetworking.png)
 **Reflection**  
 * **S:** I completed a Professional Networking course to understand the importance of building career connections.  
 * **T:** I needed to learn how to effectively connect with professionals and use platforms like LinkedIn for career growth.  
@@ -84,7 +84,7 @@
 ---
 
 ## Workplace Etiquette
-![Workplace Etiquette](WorkplaceEtiquett.png)
+![Workplace Etiquette](WorkplaceEtiquette.png)
 **Reflection**  
 * **S:** I completed a Workplace Etiquette course to learn about professional behavior in an organizational environment.  
 * **T:** The goal was to understand workplace norms, professionalism, and appropriate conduct.  
