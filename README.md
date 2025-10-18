@@ -61,6 +61,8 @@
 
 ## Mock Interview
 ![Mock Interview](MockInterview.png)
+![View my Mock Interview](MockInterviewSufyaanRawoot221075127PRP.mp4)
+
 **Reflection**  
 * S: I participated in a Mock Interview session to apply the skills I learned in the Interview Skills course.  
 * T: My task was to simulate a real interview environment and practice responding to typical employer questions.  
